@@ -10,5 +10,5 @@ Contained within this repository you will find the main code used for identifyin
 For more information concerning this project please take a look at the project poster.
 
 ![Final Product](/deliverable.PNG)
-Format: ![Alt Text](url)
+
 ![Project Poster](Project_Poster.pdf?raw=true "Optional Title")
