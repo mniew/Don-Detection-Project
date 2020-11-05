@@ -11,4 +11,4 @@ For more information concerning this project please take a look at the project p
 
 ![Final Product](/deliverable.PNG)
 
-![Project Poster](Project_Poster.pdf?raw=true "Optional Title")
+![Project Poster](/Project_Poster.pdf?raw=true "Optional Title")
