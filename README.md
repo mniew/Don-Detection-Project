@@ -9,4 +9,4 @@ Contained within this repository you will find the main code used for identifyin
 
 For more information concerning this project please take a look at the project poster.
 
-![Alt text](Project_Poster.pdf?raw=true "Optional Title")
+![Project Poster](Project_Poster.pdf?raw=true "Optional Title")
